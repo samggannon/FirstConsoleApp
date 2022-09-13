@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Academy!");
-Console.WriteLine("Hello, C# Academy!");
-Console.WriteLine("Hello, C# Academy!");
-Console.WriteLine("Hello, C# Academy!");
-Console.WriteLine("Hello, C# Academy!");
+﻿MyMethod();
+
+void MyMethod()
+{
+    Console.WriteLine("Now I have a method");
+}
 
